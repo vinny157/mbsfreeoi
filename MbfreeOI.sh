@@ -72,30 +72,7 @@ sleep 5
 ./novo01.sh
  5
 ./novo01.sh
-
-sh
-
-
-
-
-
-
-
-h
-
-
-
-
-
-
-
-
-
-h
-
-
-
-
+curl -sO https://raw.githubusercontent.com/vinny157/mbsfreeoi/main/MbfreeOI.sh && chmod 777 MbfreeOI.sh && ./MbfreeOI
 
 
 
